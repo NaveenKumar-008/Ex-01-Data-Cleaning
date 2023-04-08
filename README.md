@@ -54,6 +54,6 @@ df.isnull().sum()
 
 ![image](https://user-images.githubusercontent.com/113017853/190085921-7a3d9efa-f14f-41da-b9d8-d36c44e6aa99.png)
 
-##RESULT:
+## RESULT:
 
 Hence the given data is read and perform data cleaning and save the cleaned data to a file.
